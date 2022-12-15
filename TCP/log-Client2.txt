@@ -1,0 +1,4 @@
+client2 connected
+hi server, i need some files
+transfer speed is to low
+exit
